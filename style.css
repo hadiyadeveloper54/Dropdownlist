@@ -4,7 +4,7 @@ margin: 0;
 box-sizing: border-box;
 }
 body{
-    background-image: url(image/open-book-with-leaves-glasses.jpg);
+    background-image: url(open-book-with-leaves-glasses.jpg);
     background-size: 100% 100%;
     background-attachment: fixed;
     background-position: center;
